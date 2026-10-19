@@ -1,0 +1,44 @@
+{
+  "model_name": "Regression -> Threshold",
+  "classes": [
+    "At Risk",
+    "Average",
+    "High Performance"
+  ],
+  "thresholds": {
+    "at_risk_below": 40,
+    "high_performance_from": 70
+  },
+  "numeric_features": [
+    "Hours Studied",
+    "Previous Scores",
+    "Sleep Hours",
+    "Sample Question Papers Practiced"
+  ],
+  "categorical_features": [
+    "Extracurricular Activities"
+  ],
+  "extracurricular_options": [
+    "Yes",
+    "No"
+  ],
+  "input_ranges": {
+    "Hours Studied": [
+      1.0,
+      9.0
+    ],
+    "Previous Scores": [
+      40.0,
+      99.0
+    ],
+    "Sleep Hours": [
+      4.0,
+      9.0
+    ],
+    "Sample Question Papers Practiced": [
+      0.0,
+      9.0
+    ]
+  },
+  "sklearn_version": "1.6.1"
+}

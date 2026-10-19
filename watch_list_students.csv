@@ -1,0 +1,188 @@
+Student_ID,Hours Studied,Previous Scores,Sleep Hours,Sample Question Papers Practiced,Extracurricular Activities,Performance Index,Risk_Probability,Priority,Recommended_Support,Key_Risk_Factors
+S03662,3,60,6,8,No,39.0,0.497,Watch,Personalized study plan,low study hours
+S09493,5,54,5,9,Yes,37.0,0.497,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S04168,3,61,5,2,Yes,40.0,0.496,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S02809,5,54,8,2,Yes,41.0,0.495,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04690,4,57,8,1,Yes,41.0,0.494,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S03325,5,53,9,8,No,38.0,0.492,Watch,Extra tutoring,low previous scores
+S05958,3,61,6,3,No,41.0,0.489,Watch,Personalized study plan,low study hours
+S07748,1,66,6,3,Yes,38.0,0.486,Watch,Personalized study plan,low study hours
+S03239,4,58,4,9,No,38.0,0.486,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S02801,9,43,6,6,Yes,40.0,0.485,Watch,Extra tutoring,low previous scores
+S00025,3,61,6,3,No,35.0,0.485,Watch,Personalized study plan,low study hours
+S08526,9,43,6,6,Yes,43.0,0.485,Watch,Extra tutoring,low previous scores
+S06323,7,49,9,0,No,40.0,0.485,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S02841,3,61,4,8,No,41.0,0.485,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S01773,1,67,4,6,No,39.0,0.484,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S08793,7,49,6,4,Yes,37.0,0.484,Watch,Extra tutoring,low previous scores
+S01566,8,48,4,0,Yes,44.0,0.481,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S06320,9,44,5,7,No,43.0,0.479,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S04720,1,68,4,1,No,38.0,0.477,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S06455,2,65,4,2,No,41.0,0.477,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S06307,9,43,7,7,No,38.0,0.476,Watch,Extra tutoring,low previous scores
+S08681,5,56,4,2,Yes,44.0,0.47,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S04320,1,66,5,6,Yes,41.0,0.468,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S05182,3,62,4,0,Yes,43.0,0.466,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S05639,1,66,7,1,Yes,43.0,0.466,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S05658,5,55,7,0,Yes,42.0,0.465,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S09598,7,49,5,7,Yes,43.0,0.464,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S09606,7,49,6,8,No,41.0,0.463,Watch,Extra tutoring,low previous scores
+S00727,8,47,7,1,No,36.0,0.462,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04477,5,54,8,6,No,37.0,0.462,Watch,Extra tutoring,low previous scores
+S06366,3,62,5,1,No,43.0,0.461,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S07445,4,58,5,4,Yes,37.0,0.46,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S04453,5,53,8,8,Yes,40.0,0.458,Watch,Extra tutoring,low previous scores
+S01890,4,57,6,7,Yes,40.0,0.456,Watch,Extra tutoring,low previous scores
+S07256,5,54,6,8,Yes,40.0,0.456,Watch,Extra tutoring,low previous scores
+S09610,3,60,8,1,Yes,37.0,0.453,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S00862,5,55,6,6,No,42.0,0.453,Watch,Extra tutoring,low previous scores
+S01378,3,60,8,1,Yes,40.0,0.452,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S04548,1,66,8,2,No,40.0,0.451,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S01845,3,59,9,4,Yes,38.0,0.447,Watch,Extra tutoring; Personalized study plan,"low previous scores, low study hours"
+S01850,5,55,4,8,Yes,41.0,0.447,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S08742,7,49,6,5,Yes,40.0,0.446,Watch,Extra tutoring,low previous scores
+S05697,2,64,6,3,No,42.0,0.445,Watch,Personalized study plan,low study hours
+S02380,8,47,4,9,No,40.0,0.445,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S09310,6,52,6,4,Yes,40.0,0.444,Watch,Extra tutoring,low previous scores
+S03632,5,54,6,8,Yes,38.0,0.444,Watch,Extra tutoring,low previous scores
+S04144,3,60,7,7,No,42.0,0.444,Watch,Personalized study plan,low study hours
+S08062,4,58,4,7,Yes,39.0,0.443,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S07809,5,54,9,4,No,40.0,0.443,Watch,Extra tutoring,low previous scores
+S03347,9,44,5,8,No,42.0,0.442,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S08871,3,62,4,4,No,43.0,0.44,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S09523,8,46,9,2,No,42.0,0.437,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04151,7,49,7,6,No,38.0,0.436,Watch,Extra tutoring,low previous scores
+S06920,6,53,4,4,Yes,40.0,0.435,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S00991,7,49,9,1,No,40.0,0.434,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S03101,3,60,5,9,Yes,39.0,0.432,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S06188,2,64,7,1,No,39.0,0.431,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08809,4,56,8,8,Yes,37.0,0.429,Watch,Extra tutoring,low previous scores
+S00205,7,49,7,3,Yes,38.0,0.429,Watch,Extra tutoring,low previous scores
+S09400,5,54,8,7,No,41.0,0.428,Watch,Extra tutoring,low previous scores
+S04267,9,44,5,8,No,38.0,0.428,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S08934,2,62,8,9,No,40.0,0.427,Watch,Personalized study plan,low study hours
+S06913,7,48,8,9,No,40.0,0.425,Watch,Extra tutoring,low previous scores
+S01657,9,43,6,8,Yes,41.0,0.425,Watch,Extra tutoring,low previous scores
+S04133,6,53,5,5,No,43.0,0.424,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S03041,7,50,5,6,No,42.0,0.424,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S01428,2,65,4,0,Yes,44.0,0.424,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S04193,3,62,5,2,No,44.0,0.424,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S09494,9,43,8,3,Yes,43.0,0.423,Watch,Extra tutoring,low previous scores
+S07331,4,60,4,0,No,38.0,0.422,Watch,Assign practice questions; Academic advising (sleep / time management),"little practice, short sleep"
+S08457,7,47,9,9,Yes,40.0,0.42,Watch,Extra tutoring,low previous scores
+S02696,9,43,8,6,No,39.0,0.419,Watch,Extra tutoring,low previous scores
+S06708,9,44,4,8,Yes,39.0,0.419,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S05635,2,65,5,1,No,40.0,0.418,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S06249,2,63,5,8,Yes,36.0,0.417,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S05698,9,43,8,3,Yes,42.0,0.416,Watch,Extra tutoring,low previous scores
+S02240,3,60,8,2,Yes,38.0,0.414,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08625,1,66,8,0,Yes,41.0,0.412,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08434,9,43,7,9,No,43.0,0.411,Watch,Extra tutoring,low previous scores
+S06451,4,59,4,6,No,41.0,0.409,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S03004,1,66,6,8,No,43.0,0.409,Watch,Personalized study plan,low study hours
+S00623,2,62,9,4,Yes,40.0,0.409,Watch,Personalized study plan,low study hours
+S08197,8,48,6,0,No,39.0,0.409,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04542,1,66,8,0,Yes,43.0,0.408,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S01893,2,62,9,7,No,40.0,0.407,Watch,Personalized study plan,low study hours
+S09336,3,60,9,3,No,40.0,0.406,Watch,Personalized study plan,low study hours
+S00168,2,62,7,9,Yes,42.0,0.406,Watch,Personalized study plan,low study hours
+S02214,2,61,9,9,Yes,37.0,0.406,Watch,Personalized study plan,low study hours
+S01434,9,42,9,6,Yes,39.0,0.404,Watch,Extra tutoring,low previous scores
+S08732,9,42,9,6,Yes,41.0,0.404,Watch,Extra tutoring,low previous scores
+S03006,9,43,9,1,Yes,38.0,0.403,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S05583,6,51,9,3,Yes,44.0,0.403,Watch,Extra tutoring,low previous scores
+S04122,3,60,9,0,Yes,37.0,0.402,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S01852,8,47,6,2,Yes,42.0,0.402,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S02320,1,68,4,3,No,42.0,0.4,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S05930,1,65,8,9,No,39.0,0.399,Watch,Personalized study plan,low study hours
+S03642,7,49,7,7,No,39.0,0.399,Watch,Extra tutoring,low previous scores
+S05574,4,58,7,4,No,44.0,0.397,Watch,Extra tutoring,low previous scores
+S03663,9,42,8,9,Yes,41.0,0.395,Watch,Extra tutoring,low previous scores
+S00060,8,48,6,0,No,38.0,0.395,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S02246,5,55,4,9,Yes,37.0,0.392,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S04540,5,54,8,8,No,40.0,0.392,Watch,Extra tutoring,low previous scores
+S04159,6,53,4,5,Yes,41.0,0.39,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S08521,8,47,5,8,No,39.0,0.388,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S03684,4,58,7,1,Yes,40.0,0.388,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04348,4,60,4,1,No,39.0,0.386,Watch,Assign practice questions; Academic advising (sleep / time management),"little practice, short sleep"
+S03626,7,50,7,2,No,42.0,0.386,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S02010,6,53,5,6,No,40.0,0.385,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S09352,8,49,4,0,No,42.0,0.383,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S01719,5,54,8,5,Yes,41.0,0.383,Watch,Extra tutoring,low previous scores
+S07981,8,49,4,0,No,40.0,0.383,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S01441,9,42,8,9,Yes,44.0,0.382,Watch,Extra tutoring,low previous scores
+S08847,6,53,5,3,Yes,40.0,0.381,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S00376,5,56,5,2,Yes,40.0,0.379,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S01367,2,63,6,7,Yes,44.0,0.379,Watch,Personalized study plan,low study hours
+S07821,9,44,5,6,Yes,41.0,0.379,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S06698,5,57,5,0,No,40.0,0.379,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S00586,6,52,6,6,Yes,43.0,0.375,Watch,Extra tutoring,low previous scores
+S03187,2,64,8,0,No,40.0,0.375,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S05101,5,55,8,0,Yes,44.0,0.375,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S07473,2,64,6,5,No,42.0,0.374,Watch,Personalized study plan,low study hours
+S01266,2,63,7,8,No,42.0,0.371,Watch,Personalized study plan,low study hours
+S00619,1,64,9,9,Yes,42.0,0.371,Watch,Personalized study plan,low study hours
+S06236,3,61,6,3,Yes,41.0,0.371,Watch,Personalized study plan,low study hours
+S04435,3,62,4,6,No,38.0,0.37,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S01405,3,61,6,6,No,44.0,0.37,Watch,Personalized study plan,low study hours
+S08543,4,58,6,4,Yes,40.0,0.369,Watch,Extra tutoring,low previous scores
+S07677,2,65,6,0,No,40.0,0.369,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S01419,6,52,9,2,No,40.0,0.369,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S07696,3,60,9,1,Yes,40.0,0.366,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S04745,1,67,4,6,Yes,39.0,0.365,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S06225,1,68,4,4,No,40.0,0.364,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S03739,7,49,7,8,No,37.0,0.362,Watch,Extra tutoring,low previous scores
+S05200,6,54,4,4,No,41.0,0.36,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S00573,2,63,7,5,Yes,40.0,0.359,Watch,Personalized study plan,low study hours
+S01878,1,67,5,7,No,41.0,0.358,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S07829,4,58,7,2,Yes,46.0,0.353,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04645,3,59,8,9,Yes,43.0,0.352,Watch,Extra tutoring; Personalized study plan,"low previous scores, low study hours"
+S09497,4,59,4,4,Yes,43.0,0.351,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S09206,5,56,7,1,No,42.0,0.35,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S04714,2,64,7,0,Yes,42.0,0.349,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08224,6,54,4,1,Yes,39.0,0.349,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S09844,7,48,8,8,Yes,41.0,0.349,Watch,Extra tutoring,low previous scores
+S07972,5,54,8,6,Yes,43.0,0.347,Watch,Extra tutoring,low previous scores
+S06018,8,47,6,7,No,45.0,0.346,Watch,Extra tutoring,low previous scores
+S00145,8,48,5,4,No,40.0,0.345,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S00582,3,60,8,4,Yes,43.0,0.345,Watch,Personalized study plan,low study hours
+S06712,1,66,5,9,Yes,42.0,0.342,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S05078,8,47,5,6,Yes,42.0,0.341,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S01810,7,51,5,0,Yes,43.0,0.339,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S06235,3,61,6,7,No,43.0,0.338,Watch,Personalized study plan,low study hours
+S09320,8,46,9,5,No,41.0,0.335,Watch,Extra tutoring,low previous scores
+S05853,2,65,6,1,No,43.0,0.334,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08445,7,49,7,9,No,44.0,0.334,Watch,Extra tutoring,low previous scores
+S06857,2,63,9,4,No,39.0,0.333,Watch,Personalized study plan,low study hours
+S03491,7,50,8,1,No,39.0,0.333,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S09099,1,67,8,0,No,42.0,0.332,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S08386,9,44,9,1,No,41.0,0.332,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S09441,3,62,6,2,No,40.0,0.331,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S02996,8,45,9,7,Yes,40.0,0.331,Watch,Extra tutoring,low previous scores
+S01742,8,46,9,5,No,39.0,0.33,Watch,Extra tutoring,low previous scores
+S02988,6,54,6,0,No,43.0,0.328,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S00789,5,55,7,7,No,41.0,0.328,Watch,Extra tutoring,low previous scores
+S05564,2,63,7,6,Yes,43.0,0.326,Watch,Personalized study plan,low study hours
+S07364,1,67,7,3,No,39.0,0.323,Watch,Personalized study plan,low study hours
+S01442,6,52,7,5,Yes,45.0,0.323,Watch,Extra tutoring,low previous scores
+S09755,8,46,7,7,Yes,42.0,0.322,Watch,Extra tutoring,low previous scores
+S03454,4,58,7,6,No,43.0,0.322,Watch,Extra tutoring,low previous scores
+S04393,5,55,7,4,Yes,41.0,0.321,Watch,Extra tutoring,low previous scores
+S03788,7,50,7,4,No,39.0,0.32,Watch,Extra tutoring,low previous scores
+S01061,9,44,7,3,Yes,39.0,0.318,Watch,Extra tutoring,low previous scores
+S05978,3,63,4,2,No,45.0,0.318,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S06613,8,47,9,0,No,40.0,0.318,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S08765,1,67,4,7,Yes,38.0,0.316,Watch,Personalized study plan; Academic advising (sleep / time management),"low study hours, short sleep"
+S06102,9,43,8,9,No,45.0,0.315,Watch,Extra tutoring,low previous scores
+S05188,3,62,7,0,No,40.0,0.314,Watch,Personalized study plan; Assign practice questions,"low study hours, little practice"
+S05888,2,63,6,9,Yes,42.0,0.31,Watch,Personalized study plan,low study hours
+S07269,4,58,6,9,No,37.0,0.31,Watch,Extra tutoring,low previous scores
+S06404,4,59,5,6,No,40.0,0.309,Watch,Extra tutoring; Academic advising (sleep / time management),"low previous scores, short sleep"
+S04002,4,56,9,9,Yes,40.0,0.308,Watch,Extra tutoring,low previous scores
+S07849,9,43,8,6,Yes,41.0,0.306,Watch,Extra tutoring,low previous scores
+S01198,2,65,5,1,Yes,43.0,0.304,Watch,Personalized study plan; Assign practice questions; Academic advising (sleep / time management),"low study hours, little practice, short sleep"
+S01103,7,50,6,4,Yes,42.0,0.304,Watch,Extra tutoring,low previous scores
+S09643,5,56,8,0,No,40.0,0.304,Watch,Extra tutoring; Assign practice questions,"low previous scores, little practice"
+S08601,7,49,6,9,Yes,42.0,0.303,Watch,Extra tutoring,low previous scores
+S04284,7,51,5,1,Yes,41.0,0.302,Watch,Extra tutoring; Assign practice questions; Academic advising (sleep / time management),"low previous scores, little practice, short sleep"
+S08030,8,46,9,6,No,44.0,0.3,Watch,Extra tutoring,low previous scores
